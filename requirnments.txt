@@ -1,0 +1,18 @@
+# Core computer vision and image processing
+opencv-python>=4.8.0
+opencv-contrib-python>=4.8.0  # Required for legacy tracker support
+
+# Deep learning and face analysis
+deepface>=0.0.79  # Face analysis library
+tensorflow>=2.13.0  # Deep learning framework
+tensorflow-gpu>=2.13.0  # GPU acceleration support
+
+# Scientific computing and data handling
+numpy>=1.24.0  # Array processing and numerical operations
+
+# Utility packages
+python-queue>=0.1  # Queue implementation for threading
+collections-extended>=2.0  # Enhanced data structures
+
+# Logging and debugging
+logging>=0.5  # Logging functionality
